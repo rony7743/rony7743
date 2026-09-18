@@ -1,0 +1,24 @@
+@mixin center($pos) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: $pos;
+}
+@mixin hi {
+  background: $acg;
+  background-position: center;
+  background-size: 500px;
+  background-clip: text;
+  color: transparent;
+  animation: wave1 20s linear infinite;
+}
+
+.hi {
+  background: $acg;
+  background-position: center;
+  background-size: 400px;
+  background-clip: text;
+  color: transparent;
+  padding: 0 3px;
+  animation: wave1 20s linear infinite;
+}
