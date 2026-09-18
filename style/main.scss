@@ -334,7 +334,8 @@ header {
       text-align: center;
       padding: 20px;
     }
-    h1 {
+    h1,
+    h2 {
       @include hi;
       padding: 0;
       font-size: 2rem;
@@ -359,7 +360,8 @@ header {
     .info {
       width: 20rem;
       margin: 0rem 2rem 2rem 2rem;
-      h1 {
+      h1,
+      h3 {
         font-size: 2rem;
         text-transform: uppercase;
         padding-bottom: 3px;
@@ -435,6 +437,92 @@ header {
     }
   }
 }
+
+// what i do section
+.whatido {
+  width: 100%;
+  position: relative;
+  padding: 4rem 0 2rem 0;
+
+  .container {
+    .tow {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2.5rem;
+      padding-left: 2rem;
+
+      @media (max-width: 900px) {
+        grid-template-columns: 1fr;
+        padding-left: 0;
+        margin-top: 2rem;
+      }
+
+      .info {
+        width: 100%;
+        margin: 0;
+        background: #192238;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 1.2rem;
+        padding: 2.2rem 2.4rem;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+
+        &::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 3px;
+          background: $cg;
+          opacity: 0;
+          transition: opacity 0.3s ease;
+        }
+
+        &:hover {
+          transform: translateY(-5px);
+          border-color: rgba(72, 124, 255, 0.4);
+          box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5), 0 0 20px rgba(72, 124, 255, 0.15);
+
+          &::before {
+            opacity: 1;
+          }
+
+          h3 i {
+            color: $pink;
+            transform: scale(1.1);
+          }
+        }
+
+        h3 {
+          font-size: 1.9rem;
+          color: #fff;
+          margin-bottom: 1.2rem;
+          display: flex;
+          align-items: center;
+          gap: 1rem;
+          text-transform: none;
+
+          i {
+            color: #487cff;
+            font-size: 2rem;
+            transition: all 0.3s ease;
+            flex-shrink: 0;
+          }
+        }
+
+        p {
+          color: rgba(255, 255, 255, 0.7);
+          font-size: 1.45rem;
+          line-height: 1.7;
+        }
+      }
+    }
+  }
+}
+
 .all {
   position: relative;
   width: 100%;
