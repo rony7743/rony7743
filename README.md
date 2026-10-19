@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mahfuj Alam Rony</h1>
+<h1 align="center">Hi, I'm Mahfuj Alam Rony 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -10,29 +10,37 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 🛠️ Seeking guidance on **DevOps**
 - 💬 Ask me about **JavaScript** and **Web Development**
-- 🌐 Check out my [Portfolio](https://mahfujalam.netlify.app)
+- 🌐 Check out my [Portfolio](https://rony7743.github.io/rony7743)
 - 😄 Pronouns: **he/him**
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rony7743" alt="Streak Stats" />
+  <a href="https://rony7743.github.io/rony7743">Portfolio</a> ·
+  <a href="https://linkedin.com/in/your-username">LinkedIn</a> ·
+  <a href="mailto:your-email@example.com">Email</a>
 </p>
 
 ---
 
-### 🛠️ Stack
-
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** React, Next.js, Context API, Redux (Redux Toolkit), Tailwind CSS, Material UI, shadcn/ui, Antd and Framer Motion
-- **Data fetching:** Axios, Fetch API, React Query
-- **Backend:** Node.js, Express, REST API design
-- **Databases/ORM:** MongoDB + Mongoose, PostgreSQL + Prisma, Firebase, Supabase
-- **Deployment:** Vercel, Netlify, Render, Firebase, Cloudflare(basic), Azure (App Service), Docker(basic)
-- **Tools:** Git, VS Code, Figma, Adobe XD
+### 👨‍💻 About Me
+- Building full stack web apps with React, Next.js, Node.js and PostgreSQL
+- Currently learning Docker and CI/CD
+- Ask me about JavaScript and web development
+- Open to junior / fresher Full Stack Developer roles
+- 👇 My best work is pinned below
 
 ---
 
+### 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript
+**Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS
+**Backend:** Node.js, Express, REST APIs
+**Database:** PostgreSQL (Prisma), MongoDB (Mongoose)
+**Tools & Deployment:** Git, Vercel, Docker (learning)
+
+---
 
 > "Programming is 90% thinking, 10% writing."
