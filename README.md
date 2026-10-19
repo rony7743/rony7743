@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://rony7743.github.io/rony7743">Portfolio</a> ·
-  <a href="https://linkedin.com/in/your-username">LinkedIn</a> ·
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/rony7743">LinkedIn</a> ·
+  <a href="mailto:mahfujalamrony07@gmail.com">Email</a>
 </p>
 
 ---
