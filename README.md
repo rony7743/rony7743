@@ -6,16 +6,9 @@
   </a>
 </p>
 
-### 👋 About Me
-- 🌱 I’m currently learning **Full Stack Development**
-- 🛠️ Seeking guidance on **DevOps**
-- 💬 Ask me about **JavaScript** and **Web Development**
-- 🌐 Check out my [Portfolio](https://rony7743.github.io/rony7743)
-- 😄 Pronouns: **he/him**
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
   <a href="https://rony7743.github.io/rony7743">Portfolio</a> ·
   <a href="https://linkedin.com/in/your-username">LinkedIn</a> ·
